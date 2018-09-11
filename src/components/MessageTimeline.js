@@ -3,7 +3,7 @@ import MessageList from "../containers/MessageList";
 
 const MessageTimeline = props => {
     return (
-        <div classname="row">
+        <div className="row">
             <MessageList />
         </div>
     );
